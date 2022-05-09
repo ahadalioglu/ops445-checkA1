@@ -3,7 +3,7 @@
 
 1. Clone your assignment repository into your ~/ops445/a1 directory using SSH:
 ```bash
-git clone git@github.com:OPS445/assignment1-yourgithubusername.git ~/ops445/a1/
+git clone git@github.com:OPS445-NCC-S22/assignment1-yourgithubusername.git ~/ops445/a1/
 ```
 
 # Submission
