@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-OPS445 Assignment 1 - Winter 2022
+OPS445 Assignment 1 - Summer 2022
 
 Program: assign1.py
 Author: "Student Full Name" - "Student ID"
